@@ -26,14 +26,14 @@ ESell is a mocked up ecommerce site designed to utilize node, sequelize, mysql2,
 ### Usage
 <a name="usage"/>
 You will need to clone this repo, and navigate to the code base in your command-line. From there access mysql using "mysql -u 'your username here' -p" and then enter your password. Once in you will need to give mysql the command "source db/schema.sql" you should now exit mysql, "quit" works.<br/> 
-<img src="/Assets/images/schema.png" width="700"/><br/>
+<img src="/Assets/images/codeShots/schema.png" width="700"/><br/>
 Next we need to seed the database. Do this by entering "node seeds/index.js" and then simply enter "npm start". You are now running on localhost (the port should display on connect!)<br/>
-<img src="/Assets/images/codeShots/sequelizeSync.png" width="700"/><br/>
-<img src="/Assets/images/codeShots/categoryGetAll.png" width="700"/><br/>
-<img src="/Assets/images/codeShots/productGetByID.png" width="700"/><br/>
-<img src="/Assets/images/codeShots/categoryPost.png" width="700"/><br/>
-<img src="/Assets/images/codeShots/tagsPut.png" width="700"/><br/>
-<img src="/Assets/images/codeShots/tagDelete.png" width="700"/>
+<img src="/Assets/images/codeShots/sequelizeSync.png" width="600"/><br/>
+<img src="/Assets/images/codeShots/categoryGetAll.png" width="600"/><br/>
+<img src="/Assets/images/codeShots/productGetByID.png" width="600"/><br/>
+<img src="/Assets/images/codeShots/categoryPost.png" width="600"/><br/>
+<img src="/Assets/images/codeShots/tagsPut.png" width="600"/><br/>
+<img src="/Assets/images/codeShots/tagDelete.png" width="600"/>
 
 
 <a href="https://choosealicense.com/licenses/none/">none</a><br/>
@@ -46,5 +46,5 @@ hackpres is the primary contributor.
 
 ### Contact
 <a name="contact"/>
-for questions please contact <a href="https://github.com/hackpres">hackpres</a> at hackeralexanderp@gmail.com.<br/>
+for questions please contact <a href="https://github.com/hackpres">hackpres</a><br/>
 <img src="./Assets/images/hackpres.png" width="300"/>
