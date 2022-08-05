@@ -3,7 +3,7 @@
 
 ## DEMO VIDEO
 
-<a href="https://drive.google.com/file/d/1qdNwKDijxszrr8obxVynCqULmSVeiIat/view?usp=sharing" title="ESell Demo"><img src="./Assets/images/DEMOscreenshot.png" alt="screenshot from the ESell Demo video" /><a>
+<a href="https://drive.google.com/file/d/1aJRi5SQtmMIbKgLKgNUhGQd6c4BDXRaf/view?usp=sharing" title="ESell Demo"><img src="./Assets/images/DEMOscreenshot.png" alt="screenshot from the ESell Demo video" /><a>
 
 ## Description
 ESell is a mocked up ecommerce site designed to utilize node, sequelize, mysql2, and dotenv.
